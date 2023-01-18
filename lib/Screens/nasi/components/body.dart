@@ -23,7 +23,7 @@ class Body extends StatelessWidget {
                 .headline4
                 ?.copyWith(color: Colors.white,),
           ),
-          Text(''' - 2 siung Bawang putih cincang 
+          Text('''- 2 siung Bawang putih cincang 
 - 1 siung bawang merah cincang
 - 1 butir Telur
 - 1 sdt bubuk lada hitam
